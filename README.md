@@ -66,11 +66,12 @@ I’m always up for:
 
 ## Find me here
 <!--
-- 🌐 Website/Portfolio: **[your-website-link]**
-- 💼 LinkedIn: **[your-linkedin-link]**
+- 🌐 Website/Portfolio: **https://akshita-basera.netlify.app/**
+- 💼 LinkedIn: **https://www.linkedin.com/in/akshita-basera-335633125/**
 - 🐦 X/Twitter: **[your-x-link]**
 -->
 - ✉️ Email: **akshita.basera@gmail.com**
+- Portfolio : **https://akshita-basera.netlify.app/**
 
 ---
 
